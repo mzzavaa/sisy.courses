@@ -1,3 +1,3 @@
 ---
-title: "SISY Courses — Level Up Your Expert Voice"
+title: "SISY Courses - Level Up Your Expert Voice"
 ---

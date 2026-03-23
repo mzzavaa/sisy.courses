@@ -1,6 +1,6 @@
 baseURL = "https://sisy.courses/"
 languageCode = "en-us"
-title = "SISY Courses — Level Up Your Expert Voice"
+title = "SISY Courses - Level Up Your Expert Voice"
 
 [params]
   description = "Online courses for women experts building visibility, mastering speaking craft, writing winning CFPs, and growing a powerful expert brand."

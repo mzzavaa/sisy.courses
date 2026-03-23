@@ -10,10 +10,10 @@ Online courses for women experts building visibility, mastering speaking craft, 
 
 ## Sections
 
-- Hero — "Level up your expert voice"
+- Hero - "Level up your expert voice"
 - Course categories grid (Beginner / Intermediate / Advanced / Corporate)
 - Featured course cards with pricing
-- Pricing table (€49 – €499)
+- Pricing table (€49 - €499)
 - Instructor spotlight
 - Free Speaker Toolkit freebie section (marble gradient background)
 - CTA
